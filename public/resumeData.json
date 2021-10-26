@@ -139,13 +139,8 @@
         "image":"https://www.zohowebstatic.com/sites/default/files/covid/covid-dashboard.jpg",
         "url":"https://abhishekcovidapp.herokuapp.com/"
 
-      },
-      {
-        "title":"Cyber-login",        
-        "image":"https://storage.googleapis.com/myworktillnow/blog/blog-1.png",
-        "url":"https://cyberlogin.netlify.app/"
-
-      }    
+      }
+        
       
       
             
