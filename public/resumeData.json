@@ -15,7 +15,7 @@
       "country":"INDIA",
       "zip": "110005"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://abhishekshah.netlify.app/",
     "resumedownload":"https://storage.googleapis.com/myworktillnow/resume/ResumeAbhishekShah.pdf",
     "social":[
       
@@ -108,7 +108,7 @@
       {
         "title":"Know Your College",        
         "image":"https://storage.googleapis.com/myworktillnow/du/du-1.png",
-        "url":"https://abhishekshah.netlify.app/"
+        "url":"https://knowyourcollege.netlify.app/"
       },
       {
         "title":"QR-Generater",        
@@ -138,6 +138,12 @@
         "title":"Covid-Dashboard",        
         "image":"https://www.zohowebstatic.com/sites/default/files/covid/covid-dashboard.jpg",
         "url":"https://abhishekcovidapp.herokuapp.com/"
+
+      },
+      {
+        "title":"Cyber-login",        
+        "image":"https://storage.googleapis.com/myworktillnow/blog/blog-1.png",
+        "url":"https://cyberlogin.netlify.app/"
 
       }    
       
