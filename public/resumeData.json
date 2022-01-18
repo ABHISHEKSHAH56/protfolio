@@ -2,7 +2,7 @@
   "main": {
     "name":"Abhishek Shah",
     "description":"I am a FULL STACK development engineer and I use MERN & Next.js to develop pages.Also Develope Androids App in React Native ",
-    "image":"https://storage.googleapis.com/myworktillnow/resume/pic.jpg",
+    "image":"https://res.cloudinary.com/shahbasket/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1642507438/2_nwdrf5.jpg",
     "bio":"Having been a student, I constantly explore various disciplines to broaden my technical skill. My current areas of interest and exploration are machine learning & AI. I begin projects by thoroughly researching and then developing my ideas through creative thinking",
     "contactmessage":"I am always excited to work on some awesome projects, message me and let's discuss over Tea",
     "email": "abhishekshah4010@gmail.com",
@@ -16,7 +16,7 @@
       "zip": "110005"
     },
     "website": "https://abhishekshah.netlify.app/",
-    "resumedownload":"https://storage.googleapis.com/myworktillnow/resume/ResumeAbhishekShah.pdf",
+    "resumedownload":"https://drive.google.com/file/d/1n_64oaBnvW45AsopQbDafUSqXWTL-wMp/view?usp=sharing",
     "social":[
       
       {
