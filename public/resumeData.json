@@ -99,38 +99,33 @@
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Navyuvak Chhath Pooja ",        
-        "image":"https://storage.googleapis.com/www.navyuvakchhathpooja.com/img/gallery/1.jpg",
-        "url":"https://www.navyuvakchhathpooja.com/"
-
-      },
+      
       {
         "title":"Know Your College",        
-        "image":"https://storage.googleapis.com/myworktillnow/du/du-1.png",
+        "image":"https://res.cloudinary.com/shahbasket/image/upload/v1642506733/Screenshot_42_whbnkl.png",
         "url":"https://knowyourcollege.netlify.app/"
       },
       {
         "title":"QR-Generater",        
-        "image":"https://storage.googleapis.com/myworktillnow/qr-baba/qr-baba-1.png",
+        "image":"https://res.cloudinary.com/shahbasket/image/upload/v1642506733/Screenshot_43_utbeiu.png",
         "url":"https://qrbaba.netlify.app/"
 
       },{
         "title":"ShahBasket-Android App",        
-        "image":"https://storage.googleapis.com/myworktillnow/shahbasket/sb-1.png",
+        "image":"https://res.cloudinary.com/shahbasket/image/upload/v1642506733/Screenshot_58_vwxki0.png",
         "url":"https://github.com/ABHISHEKSHAH56/shahbasketclient"
 
       },
       
       {
         "title":"Landing Page ",        
-        "image":"https://storage.googleapis.com/myworktillnow/landing/web-landing-1.png",
+        "image":"https://res.cloudinary.com/shahbasket/image/upload/v1642506733/2021-02-22_2_iofu5e.png",
         "url":"https://github.com/ABHISHEKSHAH56/E-commerce-Cart"
 
       },     
       {
         "title":"Blog",        
-        "image":"https://storage.googleapis.com/myworktillnow/blog/blog-1.png",
+        "image":"https://res.cloudinary.com/shahbasket/image/upload/v1642506733/2021-03-02_2_koh3ql.png",
         "url":"https://boostyourknowledge.herokuapp.com/"
 
       },      
